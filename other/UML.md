@@ -1,6 +1,6 @@
 #### UML图例
 
-![4236553-7032e37b92f11457](/Users/mylonelyplanet/natie/mylonelyplanet.github.io/public/006y8mN6gy1g7ui796qfaj30u01630yf.png)
+![4236553-7032e37b92f11457](https://tva1.sinaimg.cn/large/006y8mN6gy1g7xj9w63fqj30u0163taz.jpg)
 
 
 
